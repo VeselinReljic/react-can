@@ -1,15 +1,16 @@
 {
   "name": "react-can",
   "private": false,
-  "version": "0.0.6",
+  "version": "0.0.7",
   "type": "module",
-  "main": "dist/react-can.js",
+  "main": "dist/main.js",
   "types": "dist/main.d.ts",
   "repository": "https://github.com/veselinreljic/react-can",
   "license": "MIT",
   "keywords": [
     "permissions",
-    "typescript"
+    "typescript",
+    "react"
   ],
   "files": [
     "dist"
