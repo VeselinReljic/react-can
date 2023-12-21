@@ -1,6 +1,6 @@
 # react-can
 
-Minimalistic 1 dependency permissions library (requires only ts-can)
+Minimalistic (2.4 kB) 1 dependency permissions library (requires only ts-can)
 
 
 ```js
