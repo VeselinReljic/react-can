@@ -1,7 +1,7 @@
 {
   "name": "react-can",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "main": "dist/react-can.js",
   "types": "dist/main.d.ts",
@@ -21,7 +21,7 @@
     "preview": "vite preview",
     "test": "vitest",
     "version": "standard-version",
-    "publish": "vitest && version && npm run build && npm publish"
+    "publish": "vitest run && npm run version && npm run build && npm publish"
   },
   "dependencies": {
     "ts-can": "1.0.5"
